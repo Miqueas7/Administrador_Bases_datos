@@ -9,6 +9,6 @@ Se puede cambiar las credenciales de acceso, además del puerto, esto permite co
 
 Configurar la carpeta de respaldo y backup.
 
-Esta es la primera versión por lo que se aceptan sugerencias para la mejorar.
+Esta es la primera versión por lo que se aceptan sugerencias para la mejora.
 
 Dev. Miqueas Quintanilla Ventura
